@@ -1,4 +1,4 @@
-# melhor-rota
+# Melhor Rota (grafos)
 
 API elaborada para o curso NExT do CESAR, no módulo de experiência prática. Fiz o upload do anunciado em PDF.
 
